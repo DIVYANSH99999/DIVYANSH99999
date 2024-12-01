@@ -4,7 +4,7 @@
 **DIVYANSH99999/DIVYANSH99999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Shubham](https://www.linkedin.com/in/divyansh-paliwal-88b946292/), a DevOps Enthusiast | Continuous Learner | Bridging the Gap Between Development and Operations . from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; Passionate about all things DevOps, I'm on a relentless journey to master the art of streamlining software development and operations. I thrive in dynamic environments where I can apply my skills to enhance collaboration, automate processes, and deliver high-quality solutions. 🎯
+I am [Divyansh](https://www.linkedin.com/in/divyansh-paliwal-88b946292/), a DevOps Enthusiast | Continuous Learner | Bridging the Gap Between Development and Operations . from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; Passionate about all things DevOps, I'm on a relentless journey to master the art of streamlining software development and operations. I thrive in dynamic environments where I can apply my skills to enhance collaboration, automate processes, and deliver high-quality solutions. 🎯
 
 I mostly work with Python, Cloud based technologies . 🚀
 
